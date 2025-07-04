@@ -1,4 +1,3 @@
-# ChatBot
 This is a simple AI-based chatbot using OpenAI's GPT model.
 
 ## Features
